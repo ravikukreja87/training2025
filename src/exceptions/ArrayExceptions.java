@@ -27,7 +27,5 @@ public class ArrayExceptions {
 			//Clean up of try/catch block
 		}
 		System.out.println("Outside Try Catch");
-
 	}
-
 }
